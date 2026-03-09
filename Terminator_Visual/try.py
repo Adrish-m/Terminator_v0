@@ -7,6 +7,7 @@ screen.init(16,10,cd.v("."))
 #screen.world[1][1] = str(screen.height)
 a = 0
 #screen.label("hi",4,4,3)
+#Hello My first git commit
 def update():
           global a
           #screen.world[a%screen.height][1][0] = cd.rnb(chr(65+(a%26)),a%7)
